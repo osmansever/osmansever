@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osmansever
 - 👀 I’m interested in Java, HTML, CSS, JavaScript, Cloud Computing
-- 🌱 I’m currently learning Java, Cloud Computing & Administration
+- 🌱 I’m currently learning Java, Cloud Computing (Huawei Cloud & Cloud Administration)
 - 📫 How to reach me osmansever95@gmail.com
 
 Here is my blog link https://osman-sever.medium.com
