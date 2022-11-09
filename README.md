@@ -4,8 +4,9 @@
 - 📫 How to reach me osmansever95@gmail.com
 
 Here is my blog link https://osman-sever.medium.com
+Linkedin https://www.linkedin.com/in/osman-sever/
+Hackerrank https://www.hackerrank.com/h031611179
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=osman-sever)](https://medium.com/@osman-sever)
 
 
 
