@@ -5,7 +5,7 @@
 
 Here is my blog link https://osman-sever.medium.com
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=osmman-sever)](https://medium.com/@osman-sever)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=osman-sever)](https://medium.com/@osman-sever)
 
 
 
