@@ -19,10 +19,10 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Huawei Cloud Ücretsiz Sunucunun HDD ve RAM Testi](https://osman-sever.medium.com/huawei-cloud-%C3%BCcretsiz-sunucunun-hdd-ve-ram-testi-23a1018c2bb4?source=rss-3ad27477b2d2------2)
 - [Kesintisiz Güç Kaynağı için Kurşun-Asit akünün Lityum-iyon batarya ile değişimi &lpar; DIY&rpar;](https://osman-sever.medium.com/kesintisiz-g%C3%BC%C3%A7-kayna%C4%9F%C4%B1-i%C3%A7in-kur%C5%9Fun-asit-ak%C3%BCn%C3%BCn-lityum-iyon-batarya-ile-de%C4%9Fi%C5%9Fimi-diy-8f6bcd421295?source=rss-3ad27477b2d2------2)
 - [18650 Lityum-İyon Piller ile Elektrikli Bisiklet Bataryası Yapımı &lpar; DIY &rpar;](https://osman-sever.medium.com/18650-lityum-i%CC%87yon-piller-ile-elektrikli-bisiklet-bataryas%C4%B1-yap%C4%B1m%C4%B1-diy-bd884588a0fd?source=rss-3ad27477b2d2------2)
 - [Mikrodalga fırın trafosu ile punta kaynak makinesi yapımı &lpar; DIY&rpar;](https://osman-sever.medium.com/mikrodalgas%C4%B1-f%C4%B1r%C4%B1n-trafosu-ile-punta-kaynak-makinesi-yap%C4%B1m%C4%B1-diy-894b0f7fff68?source=rss-3ad27477b2d2------2)
-- [Eski HDD’den bileme taşı ,  zımpara yapmak &lpar; DIY &rpar;](https://osman-sever.medium.com/eski-hddden-bileme-ta%C5%9F%C4%B1-z%C4%B1mpara-yapmak-diy-4222de97471a?source=rss-3ad27477b2d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 
