@@ -20,7 +20,7 @@
 ### Latest medium blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Huawei Cloud — Paylaşımlı Sunucu ile Ayrılmış Sunucu Farkı ve ECS Performans Testleri](https://osman-sever.medium.com/huawei-cloud-payla%C5%9F%C4%B1ml%C4%B1-sunucu-ile-ayr%C4%B1lm%C4%B1%C5%9F-sunucu-fark%C4%B1-ve-ecs-performans-testleri-4ae2f4a32848?source=rss-3ad27477b2d2------2)
-- [Huawei Cloud Ücretsiz Sunucunun HDD ve RAM Testi](https://osman-sever.medium.com/huawei-cloud-%C3%BCcretsiz-sunucunun-hdd-ve-ram-testi-23a1018c2bb4?source=rss-3ad27477b2d2------2)
+- [Huawei Cloud — Ücretsiz Sunucunun HDD ve RAM Testi](https://osman-sever.medium.com/huawei-cloud-%C3%BCcretsiz-sunucunun-hdd-ve-ram-testi-23a1018c2bb4?source=rss-3ad27477b2d2------2)
 - [Kesintisiz Güç Kaynağı için Kurşun-Asit akünün Lityum-iyon batarya ile değişimi &lpar; DIY&rpar;](https://osman-sever.medium.com/kesintisiz-g%C3%BC%C3%A7-kayna%C4%9F%C4%B1-i%C3%A7in-kur%C5%9Fun-asit-ak%C3%BCn%C3%BCn-lityum-iyon-batarya-ile-de%C4%9Fi%C5%9Fimi-diy-8f6bcd421295?source=rss-3ad27477b2d2------2)
 - [18650 Lityum-İyon Piller ile Elektrikli Bisiklet Bataryası Yapımı &lpar; DIY &rpar;](https://osman-sever.medium.com/18650-lityum-i%CC%87yon-piller-ile-elektrikli-bisiklet-bataryas%C4%B1-yap%C4%B1m%C4%B1-diy-bd884588a0fd?source=rss-3ad27477b2d2------2)
 <!-- BLOG-POST-LIST:END -->
