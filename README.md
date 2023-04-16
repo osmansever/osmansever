@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Osman Sever</h1>
-<h3 align="center">A passionate Cloud Associate & Administrator from Turkey</h3>
+<h3 align="center">A passionate Embedded Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmansever&label=Profile%20views&color=green&style=flat" alt="osmansever" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osmansever" alt="osmansever" /></a> </p>
 
-- 🔭 I’m currently working on [HCIA - Cloud Service V3.0 Series](https://intl-education-en.huaweicloud.com/programs/a055705e-d5e9-41b9-ae17-7585a42d2a0a/about)
+- 🔭 I’m currently working on Embedded Systems
 
-- 🌱 I’m currently learning **Java, Cloud Computing (Huawei Cloud & Cloud Administration)**
+- 🌱 I’m currently learning **ESP32, IOT, FreeRTOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/osmansever?tab=repositories](https://github.com/osmansever?tab=repositories)
 
