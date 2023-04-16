@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Embedded Systems
 
-- 🌱 I’m currently learning **ESP32, IOT, FreeRTOS**
+- 🌱 I’m currently learning **ESP32, IoT, FreeRTOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/osmansever?tab=repositories](https://github.com/osmansever?tab=repositories)
 
